@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Ashok
 - Here are some projects I worked on related to Data.
 - Implementing the concepts I'm learning in data analytics, python, Machine learning.
+- Past work experience in salesforce - Trailhead:https://trailblazer.me/id/rashokkumar1
+- LinkedIn profile: http://www.linkedin.com/in/ashok-kumar-rayapati
