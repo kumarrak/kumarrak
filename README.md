@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Ashok
-- Here are some projects I worked on.
+- Here are some projects I worked on related to Data.
+- Implementing the concepts I'm learning in data analytics, python, Machine learning.
